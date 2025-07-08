@@ -36,6 +36,10 @@ pip install -r requirements.txt
 python main.py
 python -m unittest tests/test_enrollment.py
 
+## 📁 Database
+
+A local SQLite database (student_course.db) is created automatically.
+
 
 👤 Author
 Saleh Mohamed
