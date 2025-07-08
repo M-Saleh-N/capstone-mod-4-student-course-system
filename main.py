@@ -40,3 +40,4 @@ student = Student(student_db)
 student.view_courses()
 
 session.close()
+
