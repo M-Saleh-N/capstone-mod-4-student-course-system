@@ -1,5 +1,3 @@
-# student.py
-
 from course_history import CourseHistoryLinkedList
 
 class Student:

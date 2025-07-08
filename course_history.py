@@ -1,5 +1,3 @@
-# course_history.py
-
 class CourseHistoryNode:
     def __init__(self, course):
         self.course = course
